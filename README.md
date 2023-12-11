@@ -51,33 +51,3 @@ TURORIAL VIDEO: https://www.youtube.com/watch?v=T-e554Zt3n4
 
 
 
-
-
-
-
-
-
-(>> Sistema do Windows >> Prompt de Comando);
-- MacOs: O Terminal está disponível no menu de Aplicações, dentro da pasta de Utilitários;
-- Linux (Ubuntu): O Terminal está disponível no menu de Programas/Aplicações. Caso não localize, pode estar dentro da pasta Utilitários.
-
-
-
-<div align="center">
- <img src="https://github.com/realTiagoJames/Node.JS_API_Rest_com_Express_e_MongoDB_Documentation/assets/65187931/0315191f-7cbf-4da3-8969-f2746095b704" width="300" />
-</div>
-
-2. No Terminal, digite:
-```
-node --version
-```
- ou 
-```
-node -v
-``` 
-- caso retorne um número de versão, como por exemplo, v16.14.0, o NodeJS já está instalado.
-<div align="center">
- <img src="https://github.com/realTiagoJames/Node.JS_API_Rest_com_Express_e_MongoDB_Documentation/assets/65187931/051e65a9-9fef-49fe-9936-9cb23169d9b9" width="600" />
-</div>
-
-O site do Node.js oferece duas opções para download, a LTS e a current (atual), conforme imagem abaixo. Você pode escolher a versão LTS (Long Term Support ou Suporte a Longo Prazo) e clicar no botão correspondente para baixar e instalar normalmente como qualquer outro programa.
