@@ -6,6 +6,8 @@
 1. INSTALAÇÃO DOTNET CORE SDK 3.1 E VISUAL STUDIO;<br><br>
 - Windows: Clique nesse link para fazer o download para windows do SDK 3.1.426: https://dotnet.microsoft.com/en-us/download/dotnet/3.1  
 Utilizaremos a versão x64
+> A instalação é bem simples, basta clicar em instalar e ir avançando. 
+
 2. Em seguida instalaremos o Visual Estúdio na versão gratuita 'Community 2022'
 -Aqui vai a documentoação oficial de como instalaro Visual Estudio da Microsoft https://learn.microsoft.com/pt-br/visualstudio/install/install-visual-studio?view=vs-2022 
 - Na Etapa 4 da documentação oficial – 'escolher cargas de trabalho', recomendo marcar as opções: 
